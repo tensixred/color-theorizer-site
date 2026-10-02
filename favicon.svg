@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" role="img" aria-label="Color wheel">
+  <path d="M32 32 32 4A28 28 0 0 1 56.25 18Z" fill="#ff3b30"/>
+  <path d="M32 32 56.25 18A28 28 0 0 1 56.25 46Z" fill="#ffcc00"/>
+  <path d="M32 32 56.25 46A28 28 0 0 1 32 60Z" fill="#34c759"/>
+  <path d="M32 32 32 60A28 28 0 0 1 7.75 46Z" fill="#00c7be"/>
+  <path d="M32 32 7.75 46A28 28 0 0 1 7.75 18Z" fill="#007aff"/>
+  <path d="M32 32 7.75 18A28 28 0 0 1 32 4Z" fill="#af52de"/>
+  <circle cx="32" cy="32" r="10" fill="#fff"/>
+</svg>
